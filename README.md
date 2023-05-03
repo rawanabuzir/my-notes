@@ -21,7 +21,17 @@ and i am 22 years old :)
 - we can add image not just text
 
 
-<b>this is for the lab</b>
+<h2>this is for the lab</h2>
+<b>every programmer is a designer so understanding The Goals of Software Design..
+
+and it shud be simple not complicated
+"A good developer creates things that are easy to understand so that it’s really easy to shake out all the bugs." 
+we need to understand the requaierments becouse 
+who dosnt know what they do or what the system do 
+will have complex system and its not easy to controll it
+at the end i want to say we must understand the system well , if we understand it well it well be simple ,becouse 
+A good developer creates things that are easy to understand so that it’s really easy to shake out all the bugs. </b>
+
 
 
 
