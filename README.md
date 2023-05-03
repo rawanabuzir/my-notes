@@ -28,8 +28,9 @@ and it shud be simple not complicated
 "A good developer creates things that are easy to understand so that it’s really easy to shake out all the bugs." 
 we need to understand the requaierments becouse 
 who dosnt know what they do or what the system do 
-will have complex system and its not easy to controll it
-at the end i want to say we must understand the system well , if we understand it well it will be simple ,becouse 
+will have complex system and its not easy to controll it,
+You need to experiment to have a deeper understanding of the things you’ll need to get your work done. As long as you remember to back up everything you have on your computer before going on an experimentation journey, you’re good to go.
+at the end i want to say But nothing really beats practice in the software development world. So that’s one thing that we should do regardless of where we found our information in the first place and we must understand the system well and Accept That You Will Make Mistakes, if we understand it well it will be simple you’ll need to have a solid code understanding to get your work done. This means you’ll have to have a deep comprehension of how code is organized, how it works, and how you can make it work in your favor. A lot of times you’ll be using other people’s code, so if you can’t understand how to make it all work in your own projects, then you won’t be a good developer,becouse 
 A good developer creates things that are easy to understand so that it’s really easy to shake out all the bugs. </b>
 
 
